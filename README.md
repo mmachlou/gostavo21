@@ -49,6 +49,10 @@ A project focused on parsing `.fdf` files and visualizing 3D maps. It involves h
 
 I am continuously working to expand my knowledge and tackle new challenges. My goal is to contribute to impactful projects, collaborate with talented developers, and advance my expertise in software engineering.
 
-## 📫 Contact
+## 🌐 Connect with Me
 
-Feel free to connect with me through [LinkedIn]([https://www.linkedin.com/in/mmachlou](https://www.linkedin.com/in/mustafa-machlouch-279941308/)) or [Email](machlouchcr777@gmail.com). I’m always open to discussing projects, collaborating, or exploring new opportunities.
+I'm always eager to collaborate on interesting projects and contribute to open-source communities. Feel free to explore my repositories and connect with me for any discussions or opportunities.
+
+- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/mustafa-machlouch](https://www.linkedin.com/in/mustafa-machlouch-279941308/))
+- **Email**: [mustafa@example.com](machlouchcr777@gmail.com) *(Replace with your actual email)*
+- 
