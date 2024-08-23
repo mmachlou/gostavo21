@@ -10,27 +10,22 @@ I’m passionate about writing clean, efficient code and solving complex problem
 
 ### **get_next_line**
 A custom implementation of the `getline` function that reads lines from a file descriptor. This project focuses on efficient buffer management and memory handling.
-
 **[Repository](https://github.com/mmachlou/get_next_line)**
 
 ### **libft**
 A comprehensive C library implementing essential functions like `strlen`, `strcpy`, and `atoi`. This project emphasizes modular programming and memory management.
-
 **[Repository](https://github.com/mmachlou/libft)**
 
 ### **ft_printf**
 An implementation of the `printf` function, handling various format specifiers and output efficiently. This project demonstrates proficiency in variadic functions and string formatting.
-
 **[Repository](https://github.com/mmachlou/ft_printf)**
 
 ### **pipex**
 Recreates the Unix pipeline mechanism to execute commands with output redirection and inter-process communication. This project highlights skills in process management and IPC.
-
 **[Repository](https://github.com/mmachlou/pipex)**
 
 ### **fdf**
 A project focused on parsing `.fdf` files and visualizing 3D maps. It involves handling file data and graphical representation.
-
 **[Repository](https://github.com/mmachlou/fdf)**
 
 ## 🛠️ Skills
