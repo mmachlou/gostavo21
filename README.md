@@ -24,10 +24,6 @@ An implementation of the `printf` function, handling various format specifiers a
 Recreates the Unix pipeline mechanism to execute commands with output redirection and inter-process communication. This project highlights skills in process management and IPC.
 **[Repository](https://github.com/mmachlou/pipex)**
 
-### **fdf**
-A project focused on parsing `.fdf` files and visualizing 3D maps. It involves handling file data and graphical representation.
-**[Repository](https://github.com/mmachlou/fdf)**
-
 ## 🛠️ Skills
 
 - **Programming Languages**: C, C++, Python
