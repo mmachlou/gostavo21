@@ -55,4 +55,4 @@ I'm always eager to collaborate on interesting projects and contribute to open-s
 
 - **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/mustafa-machlouch](https://www.linkedin.com/in/mustafa-machlouch-279941308/))
 - **Email**: [mustafa@example.com](machlouchcr777@gmail.com) *(Replace with your actual email)*
-- 
+  
