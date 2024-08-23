@@ -48,6 +48,6 @@ I am continuously working to expand my knowledge and tackle new challenges. My g
 
 I'm always eager to collaborate on interesting projects and contribute to open-source communities. Feel free to explore my repositories and connect with me for any discussions or opportunities.
 
-- **LinkedIn**: [LinkedIn Profile]([https://www.linkedin.com/in/mustafa-machlouch](https://www.linkedin.com/in/mustafa-machlouch-279941308/))
+- **LinkedIn**: [LinkedIn profile](https://www.linkedin.com/in/mustafa-machlouch](https://www.linkedin.com/in/mustafa-machlouch-279941308/))
 - **Email**: [EMAIL](machlouchcr777@gmail.com) *(Replace with your actual email)*
   
