@@ -26,7 +26,8 @@ Recreates the Unix pipeline mechanism to execute commands with output redirectio
 
 ## 🛠️ Skills
 
-- **Programming Languages**: C, C++, Python
+- **Programming Languages**: ![C Programming Language](https://example.com/path-to-c-logo.png)
+, C++, Python
 - **Systems Programming**: Process management, file I/O, inter-process communication
 - **Tools & Libraries**: Git, Make, CMake, Unix/Linux system calls
 - **Debugging & Optimization**: Performance tuning, error handling, adherence to coding standards
