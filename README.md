@@ -26,7 +26,7 @@ Recreates the Unix pipeline mechanism to execute commands with output redirectio
 
 ## 🛠️ Skills
 z
-- **Programming Languages**: c, C++, Python
+- **Programming Languages**: C, C++, Python
 - **Systems Programming**: Process management, file I/O, inter-process communication
 - **Tools & Libraries**: Git, Make, CMake, Unix/Linux system calls
 - **Debugging & Optimization**: Performance tuning, error handling, adherence to coding standards
