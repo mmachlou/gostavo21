@@ -25,7 +25,7 @@ Recreates the Unix pipeline mechanism to execute commands with output redirectio
 **[Repository](https://github.com/mmachlou/pipex)**
 
 ## 🛠️ Skills
-z
+
 - **Programming Languages**: C, C++, Python
 - **Systems Programming**: Process management, file I/O, inter-process communication
 - **Tools & Libraries**: Git, Make, CMake, Unix/Linux system calls
